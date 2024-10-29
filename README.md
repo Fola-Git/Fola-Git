@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi there 👋 I'm Starr
+
+![Welcome Banner](https://github.com/Fola-Git/Fola-Git/blob/main/Github%20Banner.gif)
 
 <!--
 **Fola-Git/Fola-Git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
