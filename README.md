@@ -14,8 +14,17 @@ As an advocate for women in tech, I am committed to empowering others and creati
 
 I’m passionate about empowering through technology while helping others grow in tech. Through my brand, StarrInTheCloud, I actively promote women in tech, share insights on cloud education, and foster community-building.
 
-<div align="center"> ### 👀 Profile Views  </div>
-<div align="center"> ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=Fola-Git.Fola-Git) </div>
+<div align="center"> 
+  
+  ### 👀 Profile Views 
+  
+</div>
+
+<div align="center"> 
+  
+  ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=Fola-Git)
+
+ </div>
 
 
 - 🌱 Currently diving deeper into DevOps
