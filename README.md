@@ -69,6 +69,20 @@ I’m passionate about empowering through technology while helping others grow i
 
 **TICKETING & COLLABORATION:** ![M365](https://img.shields.io/badge/MICROSOFT%20365-D83B01?style=flat&logo=microsoft) | ![Zoho Desk](https://img.shields.io/badge/ZOHO%20DESK-FF4A00?style=flat&logo=zoho) | ![Google Workspace](https://img.shields.io/badge/GOOGLE%20WORKSPACE-4285F4?style=flat&logo=google) | ![Notion](https://img.shields.io/badge/NOTION-000000?style=flat&logo=notion) | ![Slack](https://img.shields.io/badge/SLACK-4A154B?style=flat&logo=slack) | ![Canva](https://img.shields.io/badge/CANVA-00C4CC?style=flat&logo=canva)
 
+---
+
+<div align="center"> 
+  
+### 🏆 Certifications
+
+- [Azure AZ-104](https://learn.microsoft.com/api/credentials/share/en-us/FolashadeBanire/51637E73615BBF24?sharingId=FAC5040D72234A31)
+- [GCP Professional Cloud Architect](https://www.credly.com/badges/6cf3aa09-f30c-46bd-9ded-b7c5fde579fb/public_url)
+- [GCP Associate Cloud Engineer](https://www.credly.com/badges/79bb220f-e90a-4ed4-8a80-87926651e650/public_url)
+- [AWS Cloud Practitioner](https://www.credly.com/badges/e744b9ac-d965-44cf-a15d-37651925a6aa/public_url)
+- [CCNA](https://www.credly.com/badges/adc992fe-c800-4ec1-a03a-93ea42a5bd95/public_url)
+- [AWS Solutions Architect Associate (SAA-CO3)](https://www.credly.com/badges/5fa6fd41-8207-4516-b6fe-9038e1c8c1bb/public_url)
+  
+</div>
 
 ---
 
