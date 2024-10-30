@@ -19,7 +19,6 @@ As an advocate for women in tech, I am committed to empowering others and creati
 
 I’m passionate about empowering through technology while helping others grow in tech. Through my brand, StarrInTheCloud, I actively promote women in tech, share insights on cloud education, and foster community-building.
 
----
 <div align="center"> 
   
   ### 👀 Profile Views 
@@ -52,22 +51,23 @@ I’m passionate about empowering through technology while helping others grow i
 ### 🛠️ Tools & Technologies
 
  </div>
- 
-**Platforms:**  ![AZURE](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoft-azure) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws) ![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat&logo=google-cloud) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux) ![WINDOWS](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows) ![NUTANIX](https://img.shields.io/badge/Nutanix-024c88?style=flat)
 
-**Monitoring:** ![SOLARWINDS](https://img.shields.io/badge/SolarWinds-FFA500?style=flat) ![CISCO MERAKI](https://img.shields.io/badge/Cisco%20Meraki-00827F?style=flat&logo=cisco) ![AZURE MONITOR](https://img.shields.io/badge/Azure%20Monitor-2563EB?style=flat) ![AZURE APP INSIGHT](https://img.shields.io/badge/Azure%20App%20Insight-0078D4?style=flat)
+**PLATFORMS:** ![Azure](https://img.shields.io/badge/AZURE-0078D4?style=flat&logo=microsoft-azure) | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws) | ![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat&logo=google-cloud) | ![Linux](https://img.shields.io/badge/LINUX-FCC624?style=flat&logo=linux) | ![Windows](https://img.shields.io/badge/WINDOWS-0078D6?style=flat&logo=windows) | ![Nutanix](https://img.shields.io/badge/NUTANIX-024c88?style=flat)
 
-**CI/CD:** ![GITHUB aCTIONS](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=github-actions) ![JENKINS](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins) ![AZURE DEVOPS](https://img.shields.io/badge/Azure%20DevOps-0078D7?style=flat&logo=azure-devops)
+**MONITORING:** ![SolarWinds](https://img.shields.io/badge/SOLARWINDS-FFA500?style=flat) | ![Cisco Meraki](https://img.shields.io/badge/CISCO%20MERAKI-00827F?style=flat&logo=cisco) | ![Azure Monitor](https://img.shields.io/badge/AZURE%20MONITOR-2563EB?style=flat) | ![Azure App Insight](https://img.shields.io/badge/AZURE%20APP%20INSIGHT-0078D4?style=flat)
 
-**Containerization & Orchestration:** ![DOCKER](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker) ![KUBERNETES](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes) ![NGINX](https://img.shields.io/badge/Nginx-269539?style=flat&logo=nginx)
+**CI/CD:** ![GitHub Actions](https://img.shields.io/badge/GITHUB%20ACTIONS-2088FF?style=flat&logo=github-actions) | ![Jenkins](https://img.shields.io/badge/JENKINS-D24939?style=flat&logo=jenkins) | ![Azure DevOps](https://img.shields.io/badge/AZURE%20DEVOPS-0078D7?style=flat&logo=azure-devops)
 
-**IAC & Automation:** ![PYTHON](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python) ![TERRAFORM](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform) ![ANSIBLE](https://img.shields.io/badge/Ansible-EE0000?style=flat&logo=ansible) ![POWERSHELL](https://img.shields.io/badge/PowerShell-5391FE?style=flat&logo=powershell) ![BASH](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash) ![ARM](https://img.shields.io/badge/Azure%20Resource%20Manager-0078D4?style=flat&logo=microsoft-azure) ![JSON](https://img.shields.io/badge/JSON-000000?style=flat&logo=json) ![YAML](https://img.shields.io/badge/YAML-000080?style=flat&logo=yaml) ![SHELL](https://img.shields.io/badge/Shell-4EAA25?style=flat&logo=gnu-bash)
+**CONTAINERIZATION & ORCHESTRATION:** ![Docker](https://img.shields.io/badge/DOCKER-2496ED?style=flat&logo=docker) | ![Kubernetes](https://img.shields.io/badge/KUBERNETES-326CE5?style=flat&logo=kubernetes) | ![Nginx](https://img.shields.io/badge/NGINX-269539?style=flat&logo=nginx)
 
-**Infrastructure Management:** ![MANAGE ENGINE](https://img.shields.io/badge/Manage%20Engine-5C2D91?style=flat) ![AZURE AD](https://img.shields.io/badge/Azure%20AD-0078D4?style=flat&logo=microsoft-azure)
+**IAC & AUTOMATION:** ![Python](https://img.shields.io/badge/PYTHON-3776AB?style=flat&logo=python) | ![Terraform](https://img.shields.io/badge/TERRAFORM-7B42BC?style=flat&logo=terraform) | ![Ansible](https://img.shields.io/badge/ANSIBLE-EE0000?style=flat&logo=ansible) | ![PowerShell](https://img.shields.io/badge/POWERSHELL-5391FE?style=flat&logo=powershell) | ![Bash](https://img.shields.io/badge/BASH-4EAA25?style=flat&logo=gnu-bash) | ![Azure Resource Manager](https://img.shields.io/badge/AZURE%20RESOURCE%20MANAGER-0078D4?style=flat&logo=microsoft-azure) | ![JSON](https://img.shields.io/badge/JSON-000000?style=flat&logo=json) | ![YAML](https://img.shields.io/badge/YAML-000080?style=flat&logo=yaml) | ![Shell](https://img.shields.io/badge/SHELL-4EAA25?style=flat&logo=gnu-bash)
 
-**Versioning:** ![GIT](https://img.shields.io/badge/Git-F05032?style=flat&logo=git) ![GITHUB](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github) ![AZURE REPOS](https://img.shields.io/badge/Azure%20Repos-0078D4?style=flat&logo=azure-devops)
+**INFRASTRUCTURE MANAGEMENT:** ![Manage Engine](https://img.shields.io/badge/MANAGE%20ENGINE-5C2D91?style=flat) | ![Azure AD](https://img.shields.io/badge/AZURE%20AD-0078D4?style=flat&logo=microsoft-azure)
 
-**Ticketing & Collaboration:** ![MICROSOFT 365](https://img.shields.io/badge/M365-D83B01?style=flat&logo=microsoft) ![ZOHO DESK](https://img.shields.io/badge/Zoho%20Desk-FF4A00?style=flat&logo=zoho) ![GOOGLE WORKSPACE](https://img.shields.io/badge/Google%20Workspace-4285F4?style=flat&logo=google) ![NOTION](https://img.shields.io/badge/Notion-000000?style=flat&logo=notion) ![SLACK](https://img.shields.io/badge/Slack-4A154B?style=flat&logo=slack) ![CANVA](https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=canva)
+**VERSIONING:** ![Git](https://img.shields.io/badge/GIT-F05032?style=flat&logo=git) | ![GitHub](https://img.shields.io/badge/GITHUB-181717?style=flat&logo=github) | ![Azure Repos](https://img.shields.io/badge/AZURE%20REPOS-0078D4?style=flat&logo=azure-devops)
+
+**TICKETING & COLLABORATION:** ![M365](https://img.shields.io/badge/M365-D83B01?style=flat&logo=microsoft) | ![Zoho Desk](https://img.shields.io/badge/ZOHO%20DESK-FF4A00?style=flat&logo=zoho) | ![Google Workspace](https://img.shields.io/badge/GOOGLE%20WORKSPACE-4285F4?style=flat&logo=google) | ![Notion](https://img.shields.io/badge/NOTION-000000?style=flat&logo=notion) | ![Slack](https://img.shields.io/badge/SLACK-4A154B?style=flat&logo=slack) | ![Canva](https://img.shields.io/badge/CANVA-00C4CC?style=flat&logo=canva)
+
 
 ---
 
