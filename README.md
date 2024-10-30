@@ -50,6 +50,7 @@ I’m passionate about empowering through technology while helping others grow i
   
 ### 🛠️ Tools & Technologies
 
+
  </div>
 
 **PLATFORMS:** ![Azure](https://img.shields.io/badge/AZURE-0078D4?style=flat&logo=microsoft-azure) | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws) | ![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat&logo=google-cloud) | ![Linux](https://img.shields.io/badge/LINUX-FCC624?style=flat&logo=linux) | ![Windows](https://img.shields.io/badge/WINDOWS-0078D6?style=flat&logo=windows) | ![Nutanix](https://img.shields.io/badge/NUTANIX-024c88?style=flat)
@@ -66,7 +67,7 @@ I’m passionate about empowering through technology while helping others grow i
 
 **VERSIONING:** ![Git](https://img.shields.io/badge/GIT-F05032?style=flat&logo=git) | ![GitHub](https://img.shields.io/badge/GITHUB-181717?style=flat&logo=github) | ![Azure Repos](https://img.shields.io/badge/AZURE%20REPOS-0078D4?style=flat&logo=azure-devops)
 
-**TICKETING & COLLABORATION:** ![M365](https://img.shields.io/badge/M365-D83B01?style=flat&logo=microsoft) | ![Zoho Desk](https://img.shields.io/badge/ZOHO%20DESK-FF4A00?style=flat&logo=zoho) | ![Google Workspace](https://img.shields.io/badge/GOOGLE%20WORKSPACE-4285F4?style=flat&logo=google) | ![Notion](https://img.shields.io/badge/NOTION-000000?style=flat&logo=notion) | ![Slack](https://img.shields.io/badge/SLACK-4A154B?style=flat&logo=slack) | ![Canva](https://img.shields.io/badge/CANVA-00C4CC?style=flat&logo=canva)
+**TICKETING & COLLABORATION:** ![M365](https://img.shields.io/badge/MICROSOFT%20365-D83B01?style=flat&logo=microsoft) | ![Zoho Desk](https://img.shields.io/badge/ZOHO%20DESK-FF4A00?style=flat&logo=zoho) | ![Google Workspace](https://img.shields.io/badge/GOOGLE%20WORKSPACE-4285F4?style=flat&logo=google) | ![Notion](https://img.shields.io/badge/NOTION-000000?style=flat&logo=notion) | ![Slack](https://img.shields.io/badge/SLACK-4A154B?style=flat&logo=slack) | ![Canva](https://img.shields.io/badge/CANVA-00C4CC?style=flat&logo=canva)
 
 
 ---
