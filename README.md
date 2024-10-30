@@ -18,13 +18,11 @@ Welcome to my GitHub! I’m Folashade Oluwaseun, better known as "Starr"— a de
 As an advocate for women in tech, I am committed to empowering others and creating opportunities for women in the industry. I have trained and educated individuals at several boot camps/workshops, sharing knowledge on various technologies and best practices.
 
 I’m passionate about empowering through technology while helping others grow in tech. Through my brand, StarrInTheCloud, I actively promote women in tech, share insights on cloud education, and foster community-building.
-
 <div align="center"> 
   
   ### 👀 Profile Views 
   
 </div>
-
 <div align="center"> 
   
   ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=Fola-Git)
@@ -63,13 +61,16 @@ I’m passionate about empowering through technology while helping others grow i
 - ⚡ Fun fact: I’m passionate about baking!
   
 ---
-
+<div align="center"> 
+  
 ### 🌍 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Folashade%20Oluwaseun-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/folashadebanire/)
-[![GitHub](https://img.shields.io/badge/GitHub-Fola--Git-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Fola-Git)
-[![Gmail](https://img.shields.io/badge/Gmail-Folashade%20Oluwaseun-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:folashadeoluwaseun6@gmail.com)
-[![Twitter](https://img.shields.io/badge/Twitter-Folashade%20Oluwaseun-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/I_am_folashade_)
+ </div>
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/folashadebanire/)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Fola-Git)
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:folashadeoluwaseun6@gmail.com)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/I_am_folashade_)
 
 ---
 
