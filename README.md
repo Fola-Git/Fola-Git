@@ -32,8 +32,7 @@ I’m passionate about empowering through technology while helping others grow i
 
 ### 🛠️ Tools & Technologies
 
-**Platforms:**  
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoft-azure) | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws) | ![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat&logo=google-cloud) | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux) | ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows) | ![Nutanix](https://img.shields.io/badge/Nutanix-024c88?style=flat)
+**Platforms:**  ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoft-azure) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws) ![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat&logo=google-cloud) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows) ![Nutanix](https://img.shields.io/badge/Nutanix-024c88?style=flat)
 
 **Monitoring:**  
 ![SolarWinds](https://img.shields.io/badge/SolarWinds-FFA500?style=flat) | ![Cisco Meraki](https://img.shields.io/badge/Cisco%20Meraki-00827F?style=flat&logo=cisco) | ![Azure Monitor](https://img.shields.io/badge/Azure%20Monitor-2563EB?style=flat) | ![Azure App Insight](https://img.shields.io/badge/Azure%20App%20Insight-0078D4?style=flat)
