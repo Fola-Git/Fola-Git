@@ -4,7 +4,7 @@
 
 </div>
 
-### 🌐 System Administrator | Advocate for Women in Tech | Technical Trainer | Event Organiser
+<div align="center"> ### 🌐 System Administrator | Advocate for Women in Tech | Technical Trainer </div>
 ![Welcome Banner](https://github.com/Fola-Git/Fola-Git/blob/main/Github%20Banner.gif)
 
 Welcome to my GitHub! I’m Folashade Oluwaseun, better known as "Starr"—a dedicated system administrator with over four years of experience in IT infrastructure. Here, you’ll find a collection of my projects, technologies used, and experiences in the Iech Space.
