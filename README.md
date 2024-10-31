@@ -75,7 +75,7 @@ I’m passionate about empowering through technology while helping others grow i
   
 ### 🏆 Certifications
 
-[![AZURE-104](https://img.shields.io/badge/Azure%20ADMINISTRATOR-0078D4?style=flat&logo=microsoft-azure)](https://learn.microsoft.com/api/credentials/share/en-us/FolashadeBanire/51637E73615BBF24?sharingId=FAC5040D72234A31) 
+[![AZURE-104](https://img.shields.io/badge/AZURE%20ADMINISTRATOR-0078D4?style=flat&logo=microsoft-azure)](https://learn.microsoft.com/api/credentials/share/en-us/FolashadeBanire/51637E73615BBF24?sharingId=FAC5040D72234A31) 
 [![GCP PCA](https://img.shields.io/badge/GCP%20PCA-4285F4?style=flat&logo=google-cloud)](https://www.credly.com/badges/6cf3aa09-f30c-46bd-9ded-b7c5fde579fb/public_url) 
 [![GCP ACE](https://img.shields.io/badge/GCP%20ACE-4285F4?style=flat&logo=google-cloud)](https://www.credly.com/badges/79bb220f-e90a-4ed4-8a80-87926651e650/public_url) 
 [![AWS Cloud Practitioner](https://img.shields.io/badge/AWS%20CLOUD%20PRACTITIONER-232F3E?style=flat&logo=amazon-aws)](https://www.credly.com/badges/e744b9ac-d965-44cf-a15d-37651925a6aa/public_url) 
@@ -86,7 +86,7 @@ I’m passionate about empowering through technology while helping others grow i
 
 ---
 
-- 🌱 Currently diving deeper into DevOps
+- 🌱 Currently diving deeper into Cloud & DevOps
 - 👯 Open to collaborating on impactful projects that enhance my expertise and build community
 - 💬 Feel free to ask me about cloud computing, community building, personal growth, and leadership
 - ⚡ Fun fact: I’m passionate about baking!
