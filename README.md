@@ -8,7 +8,7 @@
 
 <div align="center">
   
-### 💻System Administrator | 🌐 Advocate for Women in Tech | 📘 Technical Trainer 
+### 💻System Administrator | 🌐 Women in Tech Advocate | 📘 Technical Trainer 
 
 </div>
 
