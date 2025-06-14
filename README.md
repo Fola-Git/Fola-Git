@@ -8,12 +8,12 @@
 
 <div align="center">
   
-### 💻System Administrator | 🌐 Women in Tech Advocate | 📘 Technical Trainer 
+### 💻DevOps Engineer | 🌐 Women in Tech Advocate | 📘 Technical Trainer 
 
 </div>
 
 ---
-Welcome to my GitHub! I’m Folashade Oroge, better known as "Starr"— a dedicated system administrator with over four years of experience in IT infrastructure. Here, you’ll find a collection of my projects, technologies used, and experiences in the Tech Space.
+Welcome to my GitHub! I’m Folashade Oroge, better known as "Starr"— a dedicated DevOps Engineer with over five years of experience in IT infrastructure. Here, you’ll find a collection of my projects, technologies used, and experiences in the Tech Space.
 
 As an advocate for women in tech, I am committed to empowering others and creating opportunities for women in the industry. I have trained and educated individuals at several boot camps/workshops, sharing knowledge on various technologies and best practices.
 
